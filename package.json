@@ -1,0 +1,21 @@
+{
+  "name": "express-js-write-user-data-on-file",
+  "version": "1.0.0",
+  "description": "write user data on file service",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "author": "nottnt",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "csv-parser": "^2.3.3",
+    "csv-writer": "^1.6.0",
+    "express": "^4.17.1",
+    "swagger-jsdoc": "^5.0.1",
+    "swagger-ui-express": "^4.1.4"
+  }
+}
